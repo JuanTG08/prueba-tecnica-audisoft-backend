@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74D5F4F-1324-4187-8981-A9019E694C4F}|AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica.csproj|c:\\users\\japplet\\source\\repos\\audisoftpruebatecnica\\audisoftpruebatecnica\\controllers\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74D5F4F-1324-4187-8981-A9019E694C4F}|AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica.csproj|solutionrelative:audisoftpruebatecnica\\controllers\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74D5F4F-1324-4187-8981-A9019E694C4F}|AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica.csproj|c:\\users\\japplet\\source\\repos\\audisoftpruebatecnica\\audisoftpruebatecnica\\controllers\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74D5F4F-1324-4187-8981-A9019E694C4F}|AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica.csproj|solutionrelative:audisoftpruebatecnica\\controllers\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19023E6C-650B-4529-92C0-C24E59F3F36E}|DB\\DB.csproj|c:\\users\\japplet\\source\\repos\\audisoftpruebatecnica\\db\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19023E6C-650B-4529-92C0-C24E59F3F36E}|DB\\DB.csproj|solutionrelative:db\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19023E6C-650B-4529-92C0-C24E59F3F36E}|DB\\DB.csproj|c:\\users\\japplet\\source\\repos\\audisoftpruebatecnica\\db\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19023E6C-650B-4529-92C0-C24E59F3F36E}|DB\\DB.csproj|solutionrelative:db\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesores.cs",
+              "DocumentMoniker": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\DB\\Profesores.cs",
+              "RelativeDocumentMoniker": "DB\\Profesores.cs",
+              "ToolTip": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\DB\\Profesores.cs",
+              "RelativeToolTip": "DB\\Profesores.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:33:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\DB\\Notas.cs",
+              "RelativeDocumentMoniker": "DB\\Notas.cs",
+              "ToolTip": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\DB\\Notas.cs",
+              "RelativeToolTip": "DB\\Notas.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:34:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica\\Controllers\\Notas.cs",
+              "RelativeDocumentMoniker": "AudiSoftPruebaTecnica\\Controllers\\Notas.cs",
+              "ToolTip": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica\\Controllers\\Notas.cs",
+              "RelativeToolTip": "AudiSoftPruebaTecnica\\Controllers\\Notas.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowEcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:28:07.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica\\Controllers\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "AudiSoftPruebaTecnica\\Controllers\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\JAPPLET\\source\\repos\\AudiSoftPruebaTecnica\\AudiSoftPruebaTecnica\\Controllers\\Estudiantes.cs",
+              "RelativeToolTip": "AudiSoftPruebaTecnica\\Controllers\\Estudiantes.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:49:24.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
